@@ -116,4 +116,4 @@ AI-assisted content was reviewed, corrected, and approved before inclusion. Fina
 
 L0-FGP — Generative AI for Workplace Productivity
 
-Final Course Portfolio
+Final Course Portfolio @SDAIAAcademy
